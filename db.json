@@ -1,51 +1,11 @@
 {
-    "players": [
-        {
-          "name": "Kepa Arrizabalaga",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p109745.png",
-          "position": "Goalkeeper",
-          "nationality": "Spanish",
-          "info": "Quick and agile, Kepa possesses fantastic reflexes and has developed his all-round game since establishing himself as Athletic Bilbao’s first-choice ‘keeper two years ago. A great shot-stopper, he is confident with the ball at his feet and capable of playing out from the back, even under pressure."
-        },
-
-        {
-          "name": "César Azpilicueta",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p41328.png",
-          "position": "Defender",
-          "nationality": "Spanish",
-          "info": "Signed from Marseille in August 2012, weeks after representing Spain in the London Olympics, Cesar Azpilicueta soon emerged as a first-choice right-back. His ability to suppress opposition wingers immediately impressed, along with his dependability in possession and increasing willingness to join the team’s attacks."
-        },
-
-        {
-          "name": "Kurt Zouma",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p103192.png",
-          "position": "Defender",
-          "nationality": "French",
-          "info": "Kurt Happy Zouma is a French professional footballer who plays as a centre-back for Premier League club Chelsea and the France national team. Zouma began his career at Saint-Étienne, making his professional debut aged 16, and going on to win the Coupe de la Ligue with the club in 2013."
-        },
-
-        {
-          "name": "Fikayo Tomori",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p194794.png",
-          "position": "Defender",
-          "nationality": "English",
-          "info": "Oluwafikayomi Oluwadamilola aka-Fikayo Tomori is a Canadian-born English professional footballer who plays as a defender for Premier League club Chelsea and the England national team. He has represented both Canada and England at youth level. Mainly plays as centre-back, Tomori can also play as a right-back."
-        },
-
-        {
-          "name": "Ross Barkley",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p88894.png",
-          "position": "Midfielder",
-          "nationality": "English",
-          "info": "Ross Barkley is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. Barkley began his professional career at Everton in 2010."
-        },
-
-        {
-          "name": "Christian Pulisic",
-          "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p176413.png",
-          "position": "Midfielder",
-          "nationality": "American",
-          "info": "Christian Mate Pulisic is an American professional soccer player who plays as a winger or an attacking midfielder for Premier League club Chelsea and the United States national team. "
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
