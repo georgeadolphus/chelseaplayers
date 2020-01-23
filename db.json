@@ -1,6 +1,7 @@
 {
-    "players": [
+  "players": [
         {
+          "id": 1,
           "name": "Kepa Arrizabalaga",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p109745.png",
           "position": "Goalkeeper",
@@ -9,6 +10,7 @@
         },
 
         {
+          "id": 2,
           "name": "César Azpilicueta",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p41328.png",
           "position": "Defender",
@@ -17,6 +19,7 @@
         },
 
         {
+          "id": 3,
           "name": "Kurt Zouma",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p103192.png",
           "position": "Defender",
@@ -25,6 +28,7 @@
         },
 
         {
+          "id": 4,
           "name": "Fikayo Tomori",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p194794.png",
           "position": "Defender",
@@ -33,6 +37,7 @@
         },
 
         {
+          "id": 5,
           "name": "Ross Barkley",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p88894.png",
           "position": "Midfielder",
@@ -41,11 +46,24 @@
         },
 
         {
+          "id": 6,
           "name": "Christian Pulisic",
           "imgUrl": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p176413.png",
           "position": "Midfielder",
           "nationality": "American",
           "info": "Christian Mate Pulisic is an American professional soccer player who plays as a winger or an attacking midfielder for Premier League club Chelsea and the United States national team. "
         }
-    ]
+   ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
